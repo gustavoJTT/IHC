@@ -1,0 +1,11 @@
+* Interface não é apenas digital
+* Affordance > é uma caracteristica(textura, cor...) que denuncia a intenção daquela coisa
+* Para saber se uma interface é realmente boa, deve-se entrevistar, pesquisar com pessoas que não gostam ou concordam com a ideia
+    ex: A apple para saber o que melhorar pesquisa com usuários de outras marcas o que incomoda a eles nos produtos apple
+* Devem ser criadas para todos os tipos de usuários, sendo também assecível e usável
+
+* Interaçaõe é a ação entre usuário e interface
+    tipos de interação: Homem-Homem, Homem Máquina, Homem-Sistema, Homem-Ambiente, Homem-Organização
+* Se o usuário e a interface não tem ação conjunta, o usuário é um sujeito observador
+* A experiência depende do externo, ela é pessoal e efêmera
+* 
